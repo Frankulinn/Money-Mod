@@ -1,0 +1,20 @@
+{
+  "item.moneymod.one_cent_euro": "Un Centime d\u0027Euro",
+  "item.moneymod.two_cents_euro": "Deux Centimes d\u0027Euro",
+  "item.moneymod.five_cents_euro": "Cinq Centimes d\u0027Euro",
+  "item.moneymod.ten_cents_euro": "Dix Centimes d\u0027Euro",
+  "item.moneymod.twenty_cents_euro": "Vingt Centimes Euro",
+  "item.moneymod.fifty_cents_euro": "Cinquante Centimes  d\u0027Euro",
+  "item.moneymod.one_euro": "Un Euro",
+  "item.moneymod.two_euros": "Deux Euros",
+  "item.moneymod.five_euros": "Cinq Euros",
+  "item.moneymod.ten_euros": "Dix Euros",
+  "item.moneymod.twenty_euros": "Vingt Euros",
+  "item.moneymod.fifty_euros": "Cinquante Euros",
+  "item.moneymod.hundred_euros": "Cent Euros",
+  "item.moneymod.two_hundred_euros": "Deux Cents Euros",
+  "item.moneymod.five_hundred_euros": "Cinq Cents Euros",
+  "item_group.moneymod.money": "Money",
+  "item.moneymod.credit_card": "Carte de crédit",
+  "block.moneymod.atm": "Distributeur Automatique De Billets"
+}

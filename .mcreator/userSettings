@@ -1,0 +1,20 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserSplitPos": 280,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, MoneyMod]",
+      "[, MoneyMod, Source (Gradle)]",
+      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr]",
+      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn]",
+      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod]",
+      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod\\init]",
+      "[, MoneyMod, Resources (Gradle)]",
+      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets]",
+      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod]",
+      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod\\lang]"
+    ]
+  }
+}

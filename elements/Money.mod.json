@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "MoneyMod",
+    "icon": {
+      "value": "CUSTOM:FiveHundredEuros"
+    },
+    "showSearch": true
+  }
+}

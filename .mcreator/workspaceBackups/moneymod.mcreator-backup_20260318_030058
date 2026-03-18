@@ -1,0 +1,318 @@
+{
+  "mod_elements": [
+    {
+      "name": "OneCentEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_cent_euro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/one_cent_euro.json",
+          "src/main/java/fr/frankulinn/moneymod/item/OneCentEuroItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "TwoCentsEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_cents_euro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/two_cents_euro.json",
+          "src/main/java/fr/frankulinn/moneymod/item/TwoCentsEuroItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "FiveCentsEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_cents_euro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/five_cents_euro.json",
+          "src/main/java/fr/frankulinn/moneymod/item/FiveCentsEuroItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "TenCentsEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_cents_euro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/ten_cents_euro.json",
+          "src/main/java/fr/frankulinn/moneymod/item/TenCentsEuroItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "TwentyCentsEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twenty_cents_euro",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/TwentyCentsEuroItem.java",
+          "src/main/resources/assets/moneymod/models/item/twenty_cents_euro.json"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "FiftyCentsEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fifty_cents_euro",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/FiftyCentsEuroItem.java",
+          "src/main/resources/assets/moneymod/models/item/fifty_cents_euro.json"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "OneEuro",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_euro",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/one_euro.json",
+          "src/main/java/fr/frankulinn/moneymod/item/OneEuroItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "TwoEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_euros",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/two_euros.json",
+          "src/main/java/fr/frankulinn/moneymod/item/TwoEurosItem.java"
+        ]
+      },
+      "path": "~/coins"
+    },
+    {
+      "name": "FiveEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_euros",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/five_euros.json",
+          "src/main/java/fr/frankulinn/moneymod/item/FiveEurosItem.java"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "TenEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_euros",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moneymod/models/item/ten_euros.json",
+          "src/main/java/fr/frankulinn/moneymod/item/TenEurosItem.java"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "TwentyEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twenty_euros",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/TwentyEurosItem.java",
+          "src/main/resources/assets/moneymod/models/item/twenty_euros.json"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "FiftyEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fifty_euros",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/FiftyEurosItem.java",
+          "src/main/resources/assets/moneymod/models/item/fifty_euros.json"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "HundredEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hundred_euros",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/HundredEurosItem.java",
+          "src/main/resources/assets/moneymod/models/item/hundred_euros.json"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "TwoHundredEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_hundred_euros",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/TwoHundredEurosItem.java",
+          "src/main/resources/assets/moneymod/models/item/two_hundred_euros.json"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "FiveHundredEuros",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_hundred_euros",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/FiveHundredEurosItem.java",
+          "src/main/resources/assets/moneymod/models/item/five_hundred_euros.json"
+        ]
+      },
+      "path": "~/cash"
+    },
+    {
+      "name": "Money",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "money",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CreditCard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "credit_card",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/frankulinn/moneymod/item/CreditCardItem.java",
+          "src/main/resources/assets/moneymod/models/item/credit_card.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.moneymod.one_cent_euro": "One Cent Euro",
+      "item.moneymod.two_cents_euro": "Two Cents Euro",
+      "item.moneymod.five_cents_euro": "Five Cents Euro",
+      "item.moneymod.ten_cents_euro": "Ten Cents Euro",
+      "item.moneymod.twenty_cents_euro": "Twenty Cents Euro",
+      "item.moneymod.fifty_cents_euro": "Fifty Cents Euro",
+      "item.moneymod.one_euro": "One Euro",
+      "item.moneymod.two_euros": "Two Euros",
+      "item.moneymod.five_euros": "Five Euros",
+      "item.moneymod.ten_euros": "Ten Euros",
+      "item.moneymod.twenty_euros": "Twenty Euros",
+      "item.moneymod.fifty_euros": "Fifty Euros",
+      "item.moneymod.hundred_euros": "Hundred Euros",
+      "item.moneymod.two_hundred_euros": "Two Hundred Euros",
+      "item.moneymod.five_hundred_euros": "Five Hundred Euros",
+      "item_group.moneymod.money": "Money",
+      "item.moneymod.credit_card": ""
+    },
+    "fr_fr": {
+      "item.moneymod.one_cent_euro": "Un Centime d\u0027Euro",
+      "item.moneymod.two_cents_euro": "Deux Centimes d\u0027Euro   ",
+      "item.moneymod.five_cents_euro": "Cinq Centimes d\u0027Euro",
+      "item.moneymod.ten_cents_euro": "Dix Centimes d\u0027Euro",
+      "item.moneymod.twenty_cents_euro": "Vingt Centimes Euro",
+      "item.moneymod.fifty_cents_euro": "Cinquante Centimes  d\u0027Euro",
+      "item.moneymod.one_euro": "Un Euro",
+      "item.moneymod.two_euros": "Deux Euros",
+      "item.moneymod.five_euros": "Cinq Euros",
+      "item.moneymod.ten_euros": "Dix Euros",
+      "item.moneymod.twenty_euros": "Vingt Euros",
+      "item.moneymod.fifty_euros": "Cinquante Euros",
+      "item.moneymod.hundred_euros": "Cent Euros",
+      "item.moneymod.two_hundred_euros": "Deux Cents Euros",
+      "item.moneymod.five_hundred_euros": "Cinq Cents Euros",
+      "item_group.moneymod.money": "Money",
+      "item.moneymod.credit_card": ""
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/fr/frankulinn/moneymod/init/MoneymodModItems.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/fr/frankulinn/moneymod/MoneymodMod.java",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "coins",
+        "children": []
+      },
+      {
+        "name": "cash",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moneymod",
+    "modName": "MoneyMod",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "fr.frankulinn.moneymod"
+  },
+  "mcreatorVersion": 202500345720
+}
