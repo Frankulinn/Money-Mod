@@ -325,7 +325,7 @@
     "version": "1.0.0",
     "description": "Mods that provides money for Role Play Servers",
     "author": "Frankulinn",
-    "license": "Not specified",
+    "license": "GNU General Public License version 3 (GPLv3)",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
