@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frenchmoney:block/atm"
+    },
+    "facing=east": {
+      "model": "frenchmoney:block/atm",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frenchmoney:block/atm",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frenchmoney:block/atm",
+      "y": 270
+    }
+  }
+}

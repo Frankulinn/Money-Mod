@@ -5,16 +5,20 @@
   "projectBrowserSplitPos": 280,
   "projectBrowserState": {
     "expandedPaths": [
-      "[, MoneyMod]",
-      "[, MoneyMod, Source (Gradle)]",
-      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr]",
-      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn]",
-      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod]",
-      "[, MoneyMod, Source (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\java\\fr\\frankulinn\\moneymod\\init]",
-      "[, MoneyMod, Resources (Gradle)]",
-      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets]",
-      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod]",
-      "[, MoneyMod, Resources (Gradle), D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod, D:\\User\\Documents\\Projects\\moneymod\\src\\main\\resources\\assets\\moneymod\\lang]"
+      "[, FrenchMoney]",
+      "[, FrenchMoney, Source (Gradle)]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney/block]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney/init]",
+      "[, FrenchMoney, Source (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/java/fr/frankulinn/frenchmoney/item]",
+      "[, FrenchMoney, Resources (Gradle)]",
+      "[, FrenchMoney, Resources (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets]",
+      "[, FrenchMoney, Resources (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney]",
+      "[, FrenchMoney, Resources (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney/models]",
+      "[, FrenchMoney, Resources (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney/models, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney/models/block]",
+      "[, FrenchMoney, Resources (Gradle), /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney/models, /Users/louispaquereau/Documents/Projects/moneymod/src/main/resources/assets/frenchmoney/models/custom]"
     ]
   }
 }

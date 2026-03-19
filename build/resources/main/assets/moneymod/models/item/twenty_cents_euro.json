@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "moneymod:item/twenty_cents_euro"
-  }
-}
